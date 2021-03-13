@@ -36,4 +36,40 @@ cd file-path/IDS_LAB_UI
 bundle exec jekyll serve
 ```
 
+Once you've cloned the repository (Mac):
+
+```
+# Install latest version of Ruby
+$ brew install ruby
+
+# Install necessary packages
+$ gem install bundler
+$ gem install jekyll bundler
+
+# Change directory to repository folder 
+cd file-path/IDS_LAB_UI
+
+# Run local instance of website
+bundle exec jekyll serve
+```
+
+Once you've cloned the repository (Linux):
+
+```
+# Install latest version of Ruby
+(apt (Debian or Ubuntu))
+$ sudo apt-get install ruby-full
+  or  yum (CentOS, Fedora, or RHEL)
+$ sudo yum install ruby
+
+# Install necessary packages
+$ gem install bundler
+$ gem install jekyll bundler
+
+# Change directory to repository folder 
+cd file-path/IDS_LAB_UI
+
+# Run local instance of website
+bundle exec jekyll serve
+```
 
