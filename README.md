@@ -57,7 +57,7 @@ Once you've cloned the repository (Linux):
 
 ```
 # Install latest version of Ruby
-      apt (Debian or Ubuntu))
+      apt (Debian or Ubuntu)
 $ sudo apt-get install ruby-full
   or  yum (CentOS, Fedora, or RHEL)
 $ sudo yum install ruby
