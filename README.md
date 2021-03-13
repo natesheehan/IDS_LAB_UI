@@ -1,19 +1,6 @@
-# Forestry Jekyll demo
+# IDS Lab UI
 
-A Jekyll demo site for [Forestry CMS](https://forestry.io).
-
-## Import to Forestry
-
-This project has been pre-configured to work with Forestry, just import your repository ✨.  
-Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
-
-<p><a href="https://app.forestry.io/quick-start?repo=forestryio-templates/belkirk-jekyll-demo&engine=jekyll">
-    <img alt="Import this project into Forestry" src="https://assets.forestry.io/import-to-forestryK.svg" />
-</a></p>
-
-Forestry empowers editors with a usable interface to edit Markdown, YAML and JSON files:
-
-![](https://res.cloudinary.com/forestry-demo/image/fetch/c_limit,dpr_auto,f_auto,q_80,w_1205/https://forestry.io/uploads/2018/12/draft-post-editor.png)
+(A Jekyll demo site for [Forestry CMS](https://forestry.io))
 
 ## Documentation
 
@@ -23,25 +10,29 @@ Forestry empowers editors with a usable interface to edit Markdown, YAML and JSO
 
 ## Deployment
 
-The easiest way to deploy this Jekyll v4 demo is to build and deploy through https://netlify.com, just click the button below and follow the instructions.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forestryio-templates/belkirk-jekyll-demo)
-
 ## Running locally
 
 ### Requirements
 
-- Ruby > 2.4
+- Ruby > 2.4 
 - Bundler > 2.0
 - Jekyll > 4.0
 
-Once you've cloned the repository:
+Once you've cloned the repository (Windows):
+
+- Download and run (recommended settings) https://rubyinstaller.org/ to install latest version of Ruby
+- Search and open "RubyGems documentation server"
+- Search and open "Command prompt with ruby"
 
 ```
-# Install project dependencies
-bundle install
+# Install necessary packages
+gem install bundler
+gem install jekyll bundler
 
-# Run a local server to preview your work 
+# Change directory to repository folder 
+cd file-path/IDS_LAB_UI
+
+# Run local instance of website
 bundle exec jekyll serve
 ```
 
