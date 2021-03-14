@@ -4,9 +4,9 @@ banner_image: "/img/research.jpg"
 layout: landing-page
 heading: Data From The Absence Of Data
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/img/ukri.png"
+- "/img/turing.png"
+- "/img/uog.png"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
