@@ -10,6 +10,10 @@
 
 ## Deployment
 
+The easiest way to deploy this Jekyll v4 demo is to build and deploy through https://netlify.com, just click the button below and follow the instructions.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://github.com/Indicative-Data-Science/IDS_LAB_UI)
+
 ## Running locally
 
 ### Requirements
